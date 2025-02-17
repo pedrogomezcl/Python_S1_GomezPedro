@@ -18,8 +18,7 @@ sudo apt install app
 ```
 
 ### Como se juega 
-![imagen gato](./gato.png)
-
+![alt text](https://ibb.co/JRG6GV75)
 ### Sección 
 - Ítem 1
 - Ítem 2
